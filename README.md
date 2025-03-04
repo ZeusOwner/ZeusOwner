@@ -1,5 +1,4 @@
-# 👋 Hi, I’m @ZeusOwner
-
+# 👋 Hi, I’m @BearOwner
 - 👀 I’m interested in software development, open-source projects, and DevOps practices.
 - 🌱 I’m currently learning advanced techniques in cloud computing and Kubernetes.
 - 💞️ I’m looking to collaborate on innovative open-source projects that make a difference.
